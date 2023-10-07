@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Himanshu Shukla 
-GitHub user name @himanshu0418
-- 👀 I’m interested in Full-stack Development 
-- 🌱 I’m currently learning ... Reactjs, React native, Redux, Nodejs CSS3, Angular js, Advance SQL, Firebase, AWS integration, 
-- 💞️ I’m looking to collaborate on ... Any  contribution in project based on my skill to improve my programming approach.
+- 👀 I’m interested in Frontend Development 
+- 🌱 I’m currently working on  ... Reactjs, Javascript, Typescript, Redux, and Nodejs CSS3.
+- 💞️ I’m looking to collaborate on ... Any  contribution to a project based on my skill to improve my programming approach.
 - 📫 How to reach me ... Himanshushukla53@gmail.com
 
 <!---
